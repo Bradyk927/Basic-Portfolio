@@ -1,0 +1,9 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: 100;
+    color: maroon;
+    background-color: black;
+    line-height: 2;
+    letter-spacing: 0ch;
+}
